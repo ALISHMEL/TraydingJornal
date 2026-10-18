@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.BybitController",
+    "Method": "Import",
+    "RelativePath": "api/bybit/import",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.BybitController",
+    "Method": "Time",
+    "RelativePath": "api/bybit/time",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.TradesController",
+    "Method": "Get",
+    "RelativePath": "api/Trades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.TradesController",
+    "Method": "Create",
+    "RelativePath": "api/Trades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TradingJournal.DTO.CreateTradeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.TradesController",
+    "Method": "GetById",
+    "RelativePath": "api/Trades/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.TradesController",
+    "Method": "Update",
+    "RelativePath": "api/Trades/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "TradingJournal.DTO.CreateTradeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TradingJournal.Api.Controllers.TradesController",
+    "Method": "Delete",
+    "RelativePath": "api/Trades/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

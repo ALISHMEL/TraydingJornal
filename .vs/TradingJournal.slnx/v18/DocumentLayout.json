@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\services\\bybitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\services\\bybitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\dto\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\dto\\positiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\dto\\importresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\dto\\importresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\dto\\executiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\dto\\executiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\tradingjournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\tradingjournal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\controllers\\bybitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\controllers\\bybitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\tradebuilder\\tradebuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\tradebuilder\\tradebuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\statisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\services\\ibybitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\services\\ibybitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\tradebuilder\\tradebuilderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\tradebuilder\\tradebuilderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\itradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\logger\\filetradelogger .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\logger\\filetradelogger .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\logger\\itradelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\logger\\itradelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\tradebuilder\\itradebuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\tradebuilder\\itradebuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\tradebuilder\\positionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\tradebuilder\\positionstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\istatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\services\\iimportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\models\\execution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\models\\execution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\dto\\createtradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\dto\\createtradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\dto\\balancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\dto\\balancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|c:\\users\\tylga\\source\\repos\\tradingjournal\\tradingjournal\\bybit\\auth\\tradingjournalbybitoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800F763A-873C-E81A-6E02-E00C87E47C6B}|TradingJournal\\TradingJournal.csproj|solutionrelative:tradingjournal\\bybit\\auth\\tradingjournalbybitoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BybitService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Services\\BybitService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\Services\\BybitService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Services\\BybitService.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\Services\\BybitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:36:39.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TradingJournal.csproj",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradingJournal.csproj",
+              "RelativeDocumentMoniker": "TradingJournal\\TradingJournal.csproj",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradingJournal.csproj",
+              "RelativeToolTip": "TradingJournal\\TradingJournal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-12T18:43:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\TradeService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\TradeService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\TradeService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\TradeService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:01:22.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\StatisticsService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\StatisticsService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\StatisticsService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\StatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:08:19.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\ImportService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\ImportService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\ImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:08:07.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\ImportResultDto.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\DTO\\ImportResultDto.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\ImportResultDto.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\DTO\\ImportResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:28:36.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExecutionDto.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\ExecutionDto.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\DTO\\ExecutionDto.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\ExecutionDto.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\DTO\\ExecutionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:09:53.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PositionDto.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\PositionDto.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\DTO\\PositionDto.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\PositionDto.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\DTO\\PositionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:09:41.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradesController.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Controllers\\TradesController.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Controllers\\TradesController.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Controllers\\TradesController.cs",
+              "RelativeToolTip": "TradingJournal\\Controllers\\TradesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA6wD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:08:47.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradeBuilderService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\TradeBuilderService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\TradeBuilder\\TradeBuilderService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\TradeBuilderService.cs",
+              "RelativeToolTip": "TradingJournal\\TradeBuilder\\TradeBuilderService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwGIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:40:08.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBybitService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Services\\IBybitService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\Services\\IBybitService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Services\\IBybitService.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\Services\\IBybitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:36:16.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\appsettings.json",
+              "RelativeDocumentMoniker": "TradingJournal\\appsettings.json",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\appsettings.json",
+              "RelativeToolTip": "TradingJournal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-12T18:45:47.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BybitController.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Controllers\\BybitController.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Controllers\\BybitController.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Controllers\\BybitController.cs",
+              "RelativeToolTip": "TradingJournal\\Controllers\\BybitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:38:19.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITradeService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\ITradeService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\ITradeService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\ITradeService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\ITradeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:01:37.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Program.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Program.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Program.cs",
+              "RelativeToolTip": "TradingJournal\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:34:40.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TradeBuilderResult.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\TradeBuilderResult.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\TradeBuilder\\TradeBuilderResult.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\TradeBuilderResult.cs",
+              "RelativeToolTip": "TradingJournal\\TradeBuilder\\TradeBuilderResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:40:26.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITradeLogger.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Logger\\ITradeLogger.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Logger\\ITradeLogger.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Logger\\ITradeLogger.cs",
+              "RelativeToolTip": "TradingJournal\\Logger\\ITradeLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:01:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITradeBuilderService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\ITradeBuilderService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\TradeBuilder\\ITradeBuilderService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\ITradeBuilderService.cs",
+              "RelativeToolTip": "TradingJournal\\TradeBuilder\\ITradeBuilderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:39:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileTradeLogger .cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Logger\\FileTradeLogger .cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Logger\\FileTradeLogger .cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Logger\\FileTradeLogger .cs",
+              "RelativeToolTip": "TradingJournal\\Logger\\FileTradeLogger .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:10:40.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PositionState.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\PositionState.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\TradeBuilder\\PositionState.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\TradeBuilder\\PositionState.cs",
+              "RelativeToolTip": "TradingJournal\\TradeBuilder\\PositionState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:40:17.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Models\\Trade.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Models\\Trade.cs",
+              "RelativeToolTip": "TradingJournal\\Models\\Trade.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:44:59.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\IStatisticsService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\IStatisticsService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\IStatisticsService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\IStatisticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:22:42.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IImportService.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\IImportService.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Services\\IImportService.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Services\\IImportService.cs",
+              "RelativeToolTip": "TradingJournal\\Services\\IImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:22:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Execution.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Models\\Execution.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Models\\Execution.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Models\\Execution.cs",
+              "RelativeToolTip": "TradingJournal\\Models\\Execution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T13:00:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateTradeDto.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\DTO\\CreateTradeDto.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\DTO\\CreateTradeDto.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\DTO\\CreateTradeDto.cs",
+              "RelativeToolTip": "TradingJournal\\DTO\\CreateTradeDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:29:30.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TradingJournal\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:45:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\BalanceDto.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\DTO\\BalanceDto.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\DTO\\BalanceDto.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\DTO\\BalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T17:09:29.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TradingJournalBybitOptions.cs",
+              "DocumentMoniker": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Auth\\TradingJournalBybitOptions.cs",
+              "RelativeDocumentMoniker": "TradingJournal\\Bybit\\Auth\\TradingJournalBybitOptions.cs",
+              "ToolTip": "C:\\Users\\tylga\\source\\repos\\TradingJournal\\TradingJournal\\Bybit\\Auth\\TradingJournalBybitOptions.cs",
+              "RelativeToolTip": "TradingJournal\\Bybit\\Auth\\TradingJournalBybitOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T13:07:50.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
